@@ -1,0 +1,4 @@
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Dominio\bin\Debug\Dominio.dll
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Dominio\bin\Debug\Dominio.pdb
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Dominio\obj\Debug\Dominio.dll
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Dominio\obj\Debug\Dominio.pdb

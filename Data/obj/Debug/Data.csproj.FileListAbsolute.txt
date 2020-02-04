@@ -1,0 +1,13 @@
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Data\bin\Debug\Data.dll.config
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Data\bin\Debug\Data.dll
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Data\bin\Debug\Data.pdb
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Data\bin\Debug\Dominio.dll
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Data\bin\Debug\EntityFramework.dll
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Data\bin\Debug\Dominio.pdb
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Data\bin\Debug\EntityFramework.xml
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Data\obj\Debug\Data.dll
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Data\obj\Debug\Data.pdb

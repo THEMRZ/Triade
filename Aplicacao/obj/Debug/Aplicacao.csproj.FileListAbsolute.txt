@@ -1,0 +1,4 @@
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Aplicacao\bin\Debug\Aplicacao.dll
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Aplicacao\bin\Debug\Aplicacao.pdb
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Aplicacao\obj\Debug\Aplicacao.dll
+C:\Users\miche\OneDrive\Desktop\Trabalhos\Triade\Aplicacao\obj\Debug\Aplicacao.pdb
