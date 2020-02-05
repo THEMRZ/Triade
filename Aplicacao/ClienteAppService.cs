@@ -1,14 +1,12 @@
-﻿using Dominio.Entidades;
+﻿using Aplicacao.Interface;
+using Dominio.Entidades;
 using Dominio.Interfaces.Services;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Aplicacao
 {
-    public class ClienteAppService : AppServiceBase<Cliente>, IClienteService
+    public class ClienteAppService : AppServiceBase<Cliente>, IClienteAppService
     {
         private readonly IClienteService _clienteService;
 
@@ -16,8 +14,9 @@ namespace Aplicacao
                 : base(clienteService)
         {
             _clienteService = clienteService;
-        }
-        public IEnumerable<Cliente> ObterClientesEspeciais(IEnumerable<Cliente> cliente)
+        }      
+
+        public IEnumerable<Cliente> ObterClientesEspeciais()
         {
             return _clienteService.ObterClientesEspeciais(_clienteService.GetAll());
         }
