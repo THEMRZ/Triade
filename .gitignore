@@ -6,3 +6,7 @@ Aplicacao/obj/
 .vs/
 
 WEB/Web.config
+
+WEB/obj/
+
+WEB/bin/
